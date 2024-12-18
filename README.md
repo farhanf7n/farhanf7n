@@ -1,6 +1,3 @@
-<img src="main_banner.png" alt="GitHub Banner" width="100%" />
-<br>
-<br>
 🦀
 <br>
 Hey, I am a Frontend Developer based in Pakistan.
